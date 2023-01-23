@@ -21,7 +21,7 @@ header{
     justify-content: center;
 }
 
-.flex{
+.list{
     display: flex;
     list-style-type: none;
 }
@@ -51,6 +51,7 @@ header{
 .sect2{
     height: 200px;
     padding: 20px 0;
+    display: flex;
 }
 
 .window1{
@@ -58,4 +59,24 @@ header{
     width: 30%;
     background-color: violet;
     margin: auto;
+}
+.windows1{
+    height: 100%;
+    width: 30%;
+    background-color: blue;
+}
+
+.windows2{
+    height: 100%;
+    width: 20%;
+    background-color: pink;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+}
+
+.grey{
+    background-color: lightgray;
 }
