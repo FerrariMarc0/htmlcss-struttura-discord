@@ -7,6 +7,10 @@
     box-sizing: border-box;
 }
 
+/*-----------------
+        HEADER
+-------------------*/
+
 header{
     background-color: aqua;
     padding: 10px 0;
@@ -21,6 +25,7 @@ header{
 .list{
     display: flex;
     list-style-type: none;
+    justify-content: center;
 }
 
 .logo, .log{
@@ -38,7 +43,9 @@ header{
 .link{
     width: 40%;
 }
-
+/*-----------------
+        MAIN
+-------------------*/
 .sect1{
     background-color: darkblue;
     height: 200px;
@@ -89,7 +96,9 @@ header{
     height: 300px;
     padding: 20px 0;
 }
-
+/*-----------------
+        FOOTER
+-------------------*/
 .five{
     background-color: black;
     height: 300px;
