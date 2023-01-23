@@ -43,11 +43,19 @@ header{
 }
 
 .sect1{
-    background-color: grey;
+    background-color: darkblue;
+    height: 200px;
+    padding: 20px 0;
+}
+
+.sect2{
+    height: 200px;
+    padding: 20px 0;
 }
 
 .window1{
-    width: 60%;
-    height: 80%;
-    background-color: pink;
+    height: 100%;
+    width: 30%;
+    background-color: violet;
+    margin: auto;
 }
