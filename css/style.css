@@ -48,7 +48,7 @@ header{
     padding: 20px 0;
 }
 
-.sect2{
+.samesect{
     height: 200px;
     padding: 20px 0;
     display: flex;
@@ -79,4 +79,38 @@ header{
 
 .grey{
     background-color: lightgray;
+}
+
+.bigwindow{
+    width: 50%;
+    height: 100%;
+    margin: auto;
+    background-color: green;
+}
+
+.sect3{
+    height: 300px;
+    padding: 20px 0;
+}
+
+.five{
+    background-color: black;
+    height: 300px;
+    padding: 5px 200px 20px 200px;
+}
+
+.box{
+    height: 100%;
+    width: 30%;
+    
+}
+
+.salmonbox{
+    background-color: salmon;
+    width: 70%;
+
+}
+
+.water{
+    background-color: lightgreen;
 }
